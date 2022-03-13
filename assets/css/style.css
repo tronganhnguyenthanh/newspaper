@@ -1,0 +1,22 @@
+html{
+  overflow-x:hidden;
+  overflow-y:scroll;
+}
+
+.rm-focus-form-control:focus{
+  box-shadow:none !important;
+}
+
+#footer{
+  width:100%;
+  height:auto;
+  background-color:black;
+  color:#fff;
+  display:flex;
+  justify-content:end;
+}
+
+.entertainment{
+  height:750px;
+  border:none;
+}
